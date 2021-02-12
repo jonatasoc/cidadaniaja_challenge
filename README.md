@@ -1,13 +1,13 @@
 # Challenge React - Cidadania Já
 
 
-# ::info:: Informações do Teste
+# ::worker:: Informações do Teste
 
 Teste de análise técnica de Lógica de programação.
 
 Consulta Endereço pelo CEP
 
-##Caso de uso
+## Caso de uso
 O usuário precisa encontrar o endereço de um cliente pelo cep. Ele precisa consultar
 os seguintes dados:
 - Logradouro
