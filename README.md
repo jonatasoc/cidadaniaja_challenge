@@ -1,7 +1,7 @@
 # Challenge React - Cidadania Já
 
 
-# ::worker:: Informações do Teste
+# :pushpin: Informações do Teste
 
 Teste de análise técnica de Lógica de programação.
 
